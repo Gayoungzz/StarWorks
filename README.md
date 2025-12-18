@@ -105,6 +105,8 @@
   <img src="https://github.com/user-attachments/assets/c0eff935-012e-402b-a705-1467f36a8934" width="700" />
   <br>[업무 처리 화면]<br><br>
 
+<hr />
+
 ### 🖋️전자결재 
 결재 업무 효율화 및 자동 처리
 
@@ -119,6 +121,8 @@
 <br>[기안서 작성 페이지]<br><br>
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/aac846cc-a60f-4952-b1a8-6a6815c5ad8e" />
 <br>['신메뉴 기안서' 최종 승인 시, 해당 화면에 바로 반영되어 별도 관리 가능]<br><br>
+
+<hr />
 
 ### 🤖 AI 챗봇
 업무 어시스턴스
