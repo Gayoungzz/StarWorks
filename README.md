@@ -2,6 +2,7 @@
 > <b>전자결재, 프로젝트 관리, AI 기반 업무지원</b>을 하나의 흐름으로 연결한 통합 스마트 <b>그룹웨어</b>
 <p align="center">
 <img width="1891" height="910" alt="Image" src="https://github.com/user-attachments/assets/96bcc997-0fbd-485b-bce2-afdaec53b7be" />
+<img width="1903" height="900" alt="Image" src="https://github.com/user-attachments/assets/10629b0d-163e-470d-a415-074d6df021f9" />
 </p>
 
 </br>
@@ -14,11 +15,11 @@
 <br />
 
 ## 02. 팀원 및 역할
-* <b>임가영</b> (PL)
-* <b>김주민</b> (UA)
-* <b>윤서현</b> (BA)
-* <b>장어진</b> (TA, DA)
-* <b>홍현택</b> (AA)
+* <b>임가영</b> (PL) : 실시간 알림 발송, 회의실 관리, 자료실, 관리자(결재양식, 권한관리) 기능 구현 등
+* <b>김주민</b> (UA) : 프로젝트 등록·관리, 프로젝트 통계, 실시간 채팅, 상품 관리 기능 구현 등
+* <b>윤서현</b> (BA) : 기안서 작성 및 결재 요청 로직, 사용자 조직도 조회, 관리자(조직관리, 인사관리) 기능 구현 등
+* <b>장어진</b> (TA, DA) : AI 챗봇, 일정 관리, 근태 현황 구현 등
+* <b>홍현택</b> (AA) : 로그인 및 인증 처리, 전자결재 처리 로직, 전자메일, 관리자 메인화면 통계 구현 등
 
 <br />
 
@@ -86,6 +87,7 @@
   <img src="https://github.com/user-attachments/assets/e44c4984-2fe7-4c2f-8d07-85e69465eb83" width="600"/>
 </p>
 
+<br />
 
 ## 05. 주요 기능
 
