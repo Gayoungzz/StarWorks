@@ -91,23 +91,21 @@
 
 ## 05. 주요 기능
 
-### 프로젝트 관리
+### 🗂️ 프로젝트 관리
 다양한 부서가 함께하는 프로젝트
 
 * 프로젝트 등록 시, 다양한 부서의 사람들 초대
 * 업무 및 진행률 실시간 확인
 * 프로젝트 전 단계(등록–진행–완료) 관리
 <br/>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/8b99faae-5ced-403f-94c8-cd09adcb1e3d" width="400" />
   <br>[프로젝트 등록 시 다양한 부서원 초대 가능]<br><br>
   <img src="https://github.com/user-attachments/assets/4a390bfd-3b3e-4008-8387-1a057f11a30b" width="700" />
   <br>[진행 중인 프로젝트 목록]<br><br>
   <img src="https://github.com/user-attachments/assets/c0eff935-012e-402b-a705-1467f36a8934" width="700" />
-  <br>[업무 처리 화면]
-</p>
+  <br>[업무 처리 화면]<br><br>
 
-### 전자결재 
+### 🖋️전자결재 
 결재 업무 효율화 및 자동 처리
 
 * 전자 문서 생성, 결재 요청 및 승인 프로세스 제공
@@ -115,20 +113,31 @@
 * 결재 완료 시 자동으로 업무에 반영
 * 승인 알림 및 문서 보관 자동화
 <br/>
-<p align="center">
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/d1f1e4fe-d0b8-4e7d-9da6-be192d06fbff" />
 <br>[전자결재 홈]<br><br>
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b39c9498-990e-4bf0-b6f1-565a756c9a4f" />
 <br>[기안서 작성 페이지]<br><br>
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/aac846cc-a60f-4952-b1a8-6a6815c5ad8e" />
-<br>['신메뉴 기안서' 최종 승인 시, 해당 화면에 바로 반영되어 별도 관리 가능 ]<br><br>
-</p>
+<br>['신메뉴 기안서' 최종 승인 시, 해당 화면에 바로 반영되어 별도 관리 가능]<br><br>
 
-### AI 챗봇
+### 🤖 AI 챗봇
 업무 어시스턴스
 
 * 회사 규정·구성원 정보 검색 지원
 * 자동 기안서 작성 - 휴가 신청서, 신메뉴 등록 기안서
 * 회의실 예약 등 반복 업무 자동 처리
+<br/>
+<table>
+  <tr>
+    <td align="center">
+      <img width="309" alt="Image" src="https://github.com/user-attachments/assets/65b1469d-404d-4546-89ef-0929841ac103" /><br>
+      [회의실 자동 예약]
+    </td>
+    <td align="center">
+      <img width="299" alt="Image" src="https://github.com/user-attachments/assets/1e0082ec-d27e-4fd7-a9eb-7062d38e4744" /><br>
+      [구성원 검색]
+    </td>
+  </tr>
+</table>
 
 
